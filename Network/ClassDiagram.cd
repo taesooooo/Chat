@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NetworkBase">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAVAAAAAAAAAQAAAEAAgAAAAIAAAAAIAAAAAACEAAA=</HashCode>
+      <FileName>NetworkBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkServer">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAhAAIAICAAAIAECAAAAAAABIAAAAQABAAAAACAAAA=</HashCode>
+      <FileName>NetworkServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkClient">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAiAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>NetworkClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="clientList">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAABAAAAAA=</HashCode>
+      <FileName>NetworkBase.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="CLIENTINFO" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NetworkBase.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
